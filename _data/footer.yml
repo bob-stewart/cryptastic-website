@@ -29,3 +29,7 @@
       link: 'https://twitter.com/cryptastic'
       social_icon: Twitter
       new_window: true
+    - name: Github
+      link: 'https://github.com/bob-stewart/cryptastic'
+      social_icon:
+      new_window: true
