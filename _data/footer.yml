@@ -1,8 +1,8 @@
 - links:
-    - name: Blog
-      link: /blog/
     - name: About
       link: /about/
+    - name: Blog
+      link: /blog/
     - name: Contact
       link: /contact/
 - links:
