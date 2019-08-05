@@ -8,9 +8,6 @@
     - name: Contact
       link: /contact/
 - links:
-    - name: Sign Up
-      link: /
-      new_window: true
     - name: Docs
       link: 'https://github.com/bob-stewart/cryptastic/blob/master/README.md'
       new_window: true
