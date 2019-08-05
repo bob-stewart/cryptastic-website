@@ -9,6 +9,9 @@
     - name: Docs
       link: 'https://github.com/bob-stewart/cryptastic/blob/master/README.md'
       new_window: true
+    - name: SDLC
+      link: 'http://OpenSDLC.org'
+      new_window: true
 - links:
     - name: Facebook
       link: 'https://www.facebook.com/cryptastic'
