@@ -31,5 +31,5 @@
       new_window: true
     - name: Github
       link: 'https://github.com/bob-stewart/cryptastic'
-      social_icon:
+      social_icon: Github
       new_window: true
