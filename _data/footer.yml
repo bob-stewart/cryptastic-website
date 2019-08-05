@@ -19,7 +19,7 @@
       social_icon: Facebook
     - name: Github
       link: 'https://github.com/bob-stewart/cryptastic'
-      social_icon: RSS
+      social_icon:
       new_window: true
     - name: Twitter
       link: 'https://twitter.com/cryptastic'
