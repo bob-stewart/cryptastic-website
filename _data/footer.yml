@@ -8,17 +8,11 @@
     - name: Contact
       link: /contact/
 - links:
-    - name: Login
-      link: /
-      new_window: true
     - name: Sign Up
       link: /
       new_window: true
     - name: Docs
       link: 'https://github.com/bob-stewart/cryptastic/blob/master/README.md'
-      new_window: true
-    - name: Status
-      link: /
       new_window: true
 - links:
     - name: Facebook
