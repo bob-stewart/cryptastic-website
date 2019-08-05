@@ -14,11 +14,11 @@
       link: 'https://www.facebook.com/cryptastic'
       new_window: true
       social_icon: Facebook
-    - name: Twitter
-      link: 'https://twitter.com/cryptastic'
-      social_icon: Twitter
-      new_window: true
     - name: Github
       link: 'https://github.com/bob-stewart/cryptastic'
       social_icon: RSS
+      new_window: true
+    - name: Twitter
+      link: 'https://twitter.com/cryptastic'
+      social_icon: Twitter
       new_window: true
